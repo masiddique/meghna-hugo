@@ -4,9 +4,9 @@ about:
   title: About Us
   about_item:
   - icon: ti-ruler-pencil
-    title: We're Creative
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    title: Data
+    content: We exploit multiple forms of data to deliver you the right services,
+      such as remote sensing imagery, demographics, etc.
   - icon: ti-cup
     title: We're Professional
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
