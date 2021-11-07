@@ -84,10 +84,10 @@ name = "themefisher"
 url = "https://themefisher.com/"
 weight = 8
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "CPL"
+description = "Créneau"
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "images/creneau-logo.png"
 post_share = true
 [params.cookies]
 enable = false
