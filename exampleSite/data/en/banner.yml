@@ -5,7 +5,8 @@ banner:
   bg_image: images/field.jpg
   icon: ''
   title: ''
-  content: an ensemble of technologies and services to promote sustainable growth
+  content: an ensemble of technologies and services to promote sustainable business
+    growth
   button:
     enable: true
     label: Explore Us
