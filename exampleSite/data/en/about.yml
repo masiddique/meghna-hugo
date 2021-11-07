@@ -5,8 +5,8 @@ about:
   about_item:
   - icon: ti-ruler-pencil
     title: Data
-    content: We exploit multiple forms of data to deliver you the right services,
-      such as remote sensing imagery, demographics, etc.
+    content: We process multiple forms of data, such as remote sensing imagery, demographics,
+      financeetc.
   - icon: ti-cup
     title: We're Professional
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
