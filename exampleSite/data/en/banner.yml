@@ -5,8 +5,8 @@ banner:
   bg_image: images/field.jpg
   icon: ''
   title: Data + Analytics = Decisions
-  content: Créneau provides an ensemble of technologies and services to promote sustainable
-    business growth, with emphasis on environmental friendliness.
+  content: Créneau provides technologies & services to promote sustainable business
+    growth, with emphasis on environmental friendliness.
   button:
     enable: true
     label: Explore Us
