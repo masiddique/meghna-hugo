@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: "#images/backgrounds/hero-area.webp"
-  bg_image: images/backgrounds/field.jpg
+  bg_image_webp: ''
+  bg_image: images/field.jpg
   icon: ''
   title: ''
   content: an ensemble of technologies and services to promote sustainable growth
