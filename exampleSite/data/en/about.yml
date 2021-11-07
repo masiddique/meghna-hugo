@@ -1,7 +1,7 @@
 ---
 about:
-  enable: false
-  title: About Us
+  enable: true
+  title: Who are We?
   about_item:
   - icon: ti-ruler-pencil
     title: We're Creative
