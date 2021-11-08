@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "Créneau"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2021 Créneau Private Limited. All rights reserved."
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
