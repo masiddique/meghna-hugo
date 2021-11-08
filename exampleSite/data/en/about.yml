@@ -3,15 +3,12 @@ about:
   enable: true
   title: About Us
   about_item:
-  - icon: ti-ruler-pencil
+  - icon: ti-server
     title: Data
-    content: We process multiple forms of data, such as remote sensing imagery, demographics,
-      financeetc.
-  - icon: ti-cup
+    content: something about data
+  - icon: ti-layers-alt
     title: Analytics
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
-  - icon: ti-thought
-    title: Decision-making
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    content: something about analytics
+  - icon: ti-check-box
+    title: Decisions
+    content: something about decision-making
