@@ -9,7 +9,7 @@ contact:
   - icon: ti-location-pin
     info: Lahore, Pakistan
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: contact@creneau.tech'
   contact_form:
     enable: true
     form_action: "#"
