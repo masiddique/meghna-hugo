@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: "/images/satellite-2.jpg"
+  image_webp: ''
   title: We promote sustainable growth
   content: Our technologies and services help companies grow more sustainably, with
     accelerated productivity! We offer expertise in varied domains of artificial intelligence,
