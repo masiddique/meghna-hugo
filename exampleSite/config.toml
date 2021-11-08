@@ -89,6 +89,7 @@ description = "Créneau"
 google_analytics_id = ""
 logo = "images/creneau-logo.png"
 post_share = true
+social = []
 [params.cookies]
 enable = false
 expire_days = 2
@@ -125,21 +126,3 @@ link = "plugins/google-map/map.js"
 [params.preloader]
 enable = false
 preloader = "images/logo.png"
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
-link = "#"
