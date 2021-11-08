@@ -5,7 +5,8 @@ about:
   about_item:
   - icon: ti-server
     title: Data
-    content: something about data
+    content: Big or small, we are experts at mining data from varied sources, such
+      as remote sensing, demographics, factsheets, finance, etc.
   - icon: ti-layers-alt
     title: Analytics
     content: something about analytics
