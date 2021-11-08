@@ -10,7 +10,7 @@ feature:
     towards enabling a healthier planet.
   feature_item:
   - title: Customized Solutions
-    icon: ti-world
+    icon: ti-bar-chart
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
   - title: Consultancy
@@ -18,10 +18,10 @@ feature:
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
   - title: Trainings
-    icon: ti-stats-up
+    icon: ti-book
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
   - title: GIS Devlopment & Support
-    icon: ti-announcement
+    icon: ti-map-alt
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
