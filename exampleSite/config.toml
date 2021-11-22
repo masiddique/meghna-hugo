@@ -33,7 +33,7 @@ weight = 2
 #url = "#pricing"
 #weight = 5
 # ------- turning blog off for the time being ------
-[[Languages.en.menu.main]]
+#[[Languages.en.menu.main]]
 #name = "blog"
 #url = "#blog"
 #weight = 6
