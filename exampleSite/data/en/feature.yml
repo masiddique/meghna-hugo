@@ -18,7 +18,7 @@ feature:
     icon: ti-map-alt
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
-  - title: Consultancy
+  - title: Environment Monitoring
     icon: ti-panel
     content: We leverage digital technologies such GIS, Remote Sensing and Spatial
       Analytics, coupled with advanced machine learning and AI, to provide assessments
