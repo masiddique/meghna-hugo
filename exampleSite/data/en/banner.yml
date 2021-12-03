@@ -5,8 +5,8 @@ banner:
   bg_image: images/field.jpg
   icon: ''
   title: Créneau
-  content: Créneau provides technologies & services to promote sustainable business
-    growth, with emphasis on environmental friendliness.
+  content: We provide technologies & services to promote sustainable business growth,
+    with emphasis on environmental friendliness.
   button:
     enable: true
     label: Explore Us
