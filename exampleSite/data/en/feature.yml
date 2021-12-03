@@ -9,6 +9,9 @@ feature:
     remote sensing & geospatial analytics, and related instrumentation, targetted
     towards enabling a healthier planet.
   feature_item:
+  - title: checking
+    icon: ''
+    content: just cehcigsgs
   - title: Digital Solutions
     icon: ti-bar-chart
     content: We leverage digital technologies such Remote Sensing, Spatial Analytics
