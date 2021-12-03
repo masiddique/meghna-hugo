@@ -11,8 +11,8 @@ feature:
   feature_item:
   - title: Digital Solutions
     icon: ti-bar-chart
-    content: We leverage digital technologies such GIS, Remote Sensing, and Spatial
-      Analytics coupled with advanced machine learning and AI, to provide assessments
+    content: We leverage digital technologies such GIS, Remote Sensing and Spatial
+      Analytics, coupled with advanced machine learning and AI, to provide assessments
       on business opportunities.
   - title: Consultancy
     icon: ti-panel
