@@ -3,9 +3,6 @@ about:
   enable: true
   title: Business Focus sadfsf
   about_item:
-  - icon: ''
-    title: Tranings
-    content: ''
   - icon: ti-server
     title: Remote Sensing & Spatial Analytics
     content: Big or small! We are experts at mining data from varied sources, be it
@@ -18,3 +15,6 @@ about:
     title: Consultancy Services
     content: Taking business decisions can be hard, but not so with our support. We
       aid your decision-making with AI-based algorithms.
+  - icon: ''
+    title: Tranings
+    content: ''
