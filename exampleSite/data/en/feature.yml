@@ -14,6 +14,10 @@ feature:
     content: We leverage digital technologies such Remote Sensing, Spatial Analytics
       and Instrumentation, coupled with advanced machine learning and AI, to create
       business opportunities.
+  - title: GIS Devlopment & Support
+    icon: ti-map-alt
+    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
+      dolores repellendus eos saepe
   - title: Consultancy
     icon: ti-panel
     content: We leverage digital technologies such GIS, Remote Sensing and Spatial
@@ -21,9 +25,5 @@ feature:
       on business opportunities.
   - title: Trainings
     icon: ti-book
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
-  - title: GIS Devlopment & Support
-    icon: ti-map-alt
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
       dolores repellendus eos saepe
