@@ -4,9 +4,9 @@ banner:
   bg_image_webp: ''
   bg_image: images/field.jpg
   icon: ''
-  title: Data + Analytics = Decisions
-  content: Créneau provides technologies & services to promote sustainable business
+  title: Créneau provides technologies & services to promote sustainable business
     growth, with emphasis on environmental friendliness.
+  content: ''
   button:
     enable: true
     label: Explore Us
