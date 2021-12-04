@@ -5,8 +5,11 @@ about:
   about_item:
   - icon: ti-server
     title: Remote Sensing & Spatial Analytics
-    content: Big or small! We are experts at mining data from varied sources, be it
-      remote sensing, demographics, factsheets, finance, etc.
+    content: We proces multimodal (Optical & Radar) imagery over your area of interest
+      (AOI) worldwide & apply AI based analytics to extract useful information, and
+      produce results that are relevant to your project needs. Créneau provides on-demand
+      specific sectoral services for asset monitoring, change detection, urban planning,
+      de-carbonization & environment monitoring.
   - icon: ti-layers-alt
     title: Instrumentation & Data Analytics
     content: "Let's make the most of data! \nOur algorithms dig out information from
