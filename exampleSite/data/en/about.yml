@@ -12,8 +12,11 @@ about:
       de-carbonization & environment monitoring.
   - icon: ti-layers-alt
     title: Instrumentation & Data Analytics
-    content: "Let's make the most of data! \nOur algorithms dig out information from
-      every bit of data, bringing new insights into your business."
+    content: Créneau provides instrumentation & analytical support for predictive
+      maintainance of industrial equipment & plants through fault detection & diagnosis,
+      Root Cause Analysis (RCA) and useful life estimations of industrial units. We
+      provide custom solutions to meet your data processing, analysis and visualization
+      needs.
   - icon: ti-check-box
     title: Consultancy Services & Trainings
     content: Taking business decisions can be hard, but not so with our support. We
