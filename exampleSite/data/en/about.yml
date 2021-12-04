@@ -3,7 +3,7 @@ about:
   enable: true
   title: Business Focus sadfsf
   about_item:
-  - icon: ti-server
+  - icon: ti-layers-alt
     title: Remote Sensing & Spatial Analytics
     content: At Créneau we proces multimodal (Optical & Radar) imagery over your area
       of interest (AOI) worldwide & apply AI based analytics to extract useful information,
