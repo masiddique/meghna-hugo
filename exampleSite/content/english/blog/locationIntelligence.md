@@ -1,8 +1,8 @@
 ---
 title: Spatial Analytics driven Geomarketing
-date: 2021-10-06T00:00:00+05:00
+date: 2021-10-06T00:00:00.000+05:00
 image_webp: ''
-image: ''
+image: "/images/geomarketing_edited.png"
 author: Créneau Staff
 description: Geomarketing & Location Intelligence are the new game changers in business.
 
