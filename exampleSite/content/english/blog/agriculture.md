@@ -1,10 +1,10 @@
 ---
 title: Agricultural Monitoring
 date: 2021-06-12T14:51:12.000+06:00
-author: Adnan Siddique
+author: Créneau Staff
 image_webp: ''
 image: "/images/field.jpg"
-description: Remote Sensign for Agriculture
+description: GIS & Remote Sensign for Agriculture
 
 ---
 ## Remote Sensing for Agriculture
