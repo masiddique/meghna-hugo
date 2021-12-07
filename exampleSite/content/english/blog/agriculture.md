@@ -9,9 +9,9 @@ description: Do you need mapping & geo-tagging services for your fields? Or you'
   of agricultural monitoring.
 
 ---
-## GIS & Remote Sensing for Agriculture.
+> ## Do you need mapping & geo-tagging services for your farms? Or you're interested in crop yield estimation?
 
-Do you need mapping & geo-tagging services for your farms? Or you're interested in crop yield estimation?
+## GIS & Remote Sensing for Agriculture.
 
 ### STEP-1 : Hugo installation
 
