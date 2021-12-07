@@ -88,7 +88,8 @@ weight = 8
 author = "CPL"
 description = "Créneau"
 google_analytics_id = ""
-logo = "images/creneau-logo.png"
+#logo = "images/creneau-logo.png"
+logo = "images/logo_new.png"
 post_share = true
 social = []
 [params.cookies]
@@ -125,5 +126,6 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = true
-preloader = "images/creneau-logo.png"
+enable = false
+preloader = "images/logo_new.png"
+#preloader = "images/creneau-logo.png"
