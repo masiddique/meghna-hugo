@@ -9,9 +9,7 @@ description: GIS & Remote Sensign for Agriculture
 ---
 ## GIS & Remote Sensing for Agriculture
 
-Do you need 
-
-Créneau
+Do you need mapping & geo-tagging services for your farms? Or you're interested in crop yield estimation?
 
 ### STEP-1 : Hugo installation
 
