@@ -9,10 +9,12 @@ description: "Do you need mapping & geo-tagging services for your fields? Or you
   of agricultural monitoring."
 
 ---
-Do you need mapping & geo-tagging services for your fields? Or you're interested in crop yield estimation? Créneau provides various services in the domain of agricultural monitoring, such as:
+##### Do you need mapping & geo-tagging services for your fields? Or you're interested in crop yield estimation? Créneau provides various services in the domain of agricultural monitoring, such as:
 
 > Delineation of parcels
+
 > Crop yield estimation
+
 >
 
 ### STEP-1 : Hugo installation
