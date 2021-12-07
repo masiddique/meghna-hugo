@@ -36,7 +36,7 @@ weight = 2
 [[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
-weight = 3
+weight = 6
 #------------------
 [[Languages.en.menu.main]]
 name = "contact"
