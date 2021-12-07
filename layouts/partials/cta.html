@@ -10,7 +10,7 @@
 		<div class="row">
 			<div class="col-lg-12 text-center">
 				<h2 style="color :white;">{{ .title | markdownify }}</h2> <!-- added styling myself -->
-				<p style="color :white;">{{ .content | markdownify }}</p> <!-- added styling myself -->
+				<p style="color :black;">{{ .content | markdownify }}</p> <!-- added styling myself -->
 				{{ if .button.enable }}
 				{{ with .button }}
 				<a href="{{ .link }}" class="btn btn-main page-scroll">{{ .label }}</a>

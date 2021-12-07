@@ -1,11 +1,10 @@
 ---
 cta:
   enable: true
-  bg_image: images/backgrounds/map_3.jpg
+  bg_image: images/backgrounds/map_4.png
   #bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: Great Design & Incredible Features
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur
-    odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum.
+  title: Grow your business with Créneau!
+  content:
   button:
     enable: true
     label: Start a project with us
