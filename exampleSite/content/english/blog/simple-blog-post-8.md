@@ -1,9 +1,9 @@
 ---
 title: Spatial Analytics for Urban Planning
-date: 2018-09-12T14:51:12.000+06:00
+date: 2021-10-06T00:00:00+05:00
 image_webp: ''
 image: ''
-author: John Doe
+author: Creneau Staff
 description: This is meta description
 
 ---
