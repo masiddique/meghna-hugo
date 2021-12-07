@@ -7,7 +7,11 @@ image: "/images/field.jpg"
 description: GIS & Remote Sensign for Agriculture
 
 ---
-## Remote Sensing for Agriculture
+## GIS & Remote Sensing for Agriculture
+
+Do you need 
+
+Créneau
 
 ### STEP-1 : Hugo installation
 
