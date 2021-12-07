@@ -4,12 +4,12 @@ date: 2021-06-12T14:51:12.000+06:00
 author: Créneau Staff
 image_webp: ''
 image: "/images/field.jpg"
-description: Do you need mapping & geo-tagging services for your fields? Or you're
+description: "Do you need mapping & geo-tagging services for your fields? Or you're
   interested in crop yield estimation? Créneau provides various services in the domain
-  of agricultural monitoring.
+  of agricultural monitoring."
 
 ---
-###### Do you need mapping & geo-tagging services for your fields? Or you're interested in crop yield estimation? Créneau provides various services in the domain of agricultural monitoring.
+Do you need mapping & geo-tagging services for your fields? Or you're interested in crop yield estimation? Créneau provides various services in the domain of agricultural monitoring.
 
 ### STEP-1 : Hugo installation
 
@@ -68,7 +68,7 @@ theme = "meghna-hugo"
 When your site is ready to deploy, run the following command:
 
     hugo
-    
+
     # You can also create a minified version by using this command:
     hugo--minify
 
