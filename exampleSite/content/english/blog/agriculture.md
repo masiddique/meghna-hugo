@@ -4,8 +4,9 @@ date: 2021-06-12T14:51:12.000+06:00
 author: Créneau Staff
 image_webp: ''
 image: "/images/field.jpg"
-description: Do you need mapping & geo-tagging services for your farms? Or you're
-  interested in crop yield estimation?
+description: Do you need mapping & geo-tagging services for your fields? Or you're
+  interested in crop yield estimation? Créneau provides various services in the domain
+  of agricultural monitoring.
 
 ---
 ## GIS & Remote Sensing for Agriculture.
