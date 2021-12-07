@@ -9,7 +9,6 @@ description: Geomarketing & Location Intelligence are the new game changers in b
 ---
 ##### Are you confused where should you open your new outlet? What is your growth potential given competitors in the same locality? Créneau answers your questions on the basis of AI-driven spatial analytics.
 
-We have served clients in various aspects related to Location Intelligence such as:
-
+We have served clients in various aspects related to Location Intelligence & Geomarketing. To exemplify, say you run a fuel station, and now you intend to expand your business and open new filling points. The effort to pick a good location is enormous, not just due to high costs of the real estate and licensing fee, but also 
 
 > Design is not just what it looks like and feels like. Design is how it works.
