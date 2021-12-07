@@ -9,7 +9,7 @@ description: Do you need mapping & geo-tagging services for your fields? Or you'
   of agricultural monitoring.
 
 ---
-##### Do you need mapping & geo-tagging services for your fields? Or you're interested in crop yield estimation? Créneau provides various services in the domain of agricultural monitoring, such as:
+##### Do you need mapping & geo-tagging services for your agricultural fields? Or you're interested in crop yield estimation? Créneau provides various services in the domain of agricultural monitoring, such as:
 
 > 1. Delineation of parcels
 > 2. Crop yield estimation
@@ -81,7 +81,7 @@ theme = "meghna-hugo"
 When your site is ready to deploy, run the following command:
 
     hugo
-
+    
     # You can also create a minified version by using this command:
     hugo--minify
 
