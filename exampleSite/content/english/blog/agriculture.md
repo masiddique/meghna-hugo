@@ -1,10 +1,10 @@
 ---
-title: Agricultural Monitoring
+title: GIS & Remote Sensing for Agriculture
 date: 2021-06-12T14:51:12.000+06:00
 author: Créneau Staff
 image_webp: ''
 image: "/images/field.jpg"
-description: GIS & Remote Sensign for Agriculture
+description: ''
 
 ---
 ## GIS & Remote Sensing for Agriculture
