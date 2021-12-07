@@ -1,7 +1,7 @@
 ---
-title: Adnan Siddique
-image: ''
-email: adnan.siddique@creneau.tech
+title: "Adnan Siddique"
+image: ""
+email: "adnan.siddique@creneau.tech"
 social:
 - icon: ti-facebook
   link: "#"
