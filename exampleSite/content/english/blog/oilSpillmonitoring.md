@@ -39,4 +39,4 @@ PortScanner services cover:
 > **PortScanner provides integrated services & technology for remote monitoring
 & analysis of key assets, installations and shipping routes.**
 
-Our expert staff and consultants provide `customized recommendations` to your needs, whether you are a fleet operator, a regulator and/or relevant stakeholder. For details, please feel free to [contact](/#contact) us.
+Our expert staff and consultants provide `customized recommendations` aligned with your needs, whether you are a fleet operator, a regulator and/or relevant stakeholder. For details, please feel free to [contact](/#contact) us.
