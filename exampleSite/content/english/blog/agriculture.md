@@ -11,8 +11,7 @@ description: Do you need mapping & geo-tagging services for your fields? Or you'
 ---
 ##### Do you need mapping & geo-tagging services for your fields? Or you're interested in crop yield estimation?
 
-###### Créneau provides various services in the domain of agricultural monitoring, such as:
-
+###### _Créneau provides various services in the domain of agricultural monitoring, such as:_
 
 > 1. Delineation of parcels
 > 2. Crop yield estimation
@@ -26,7 +25,10 @@ description: Do you need mapping & geo-tagging services for your fields? Or you'
 
 These are just a few of the several services that GIS & Remote Sensing offered by Créneau in the domain of agricultural field monitoring. We provide customized solutions, tailored to your business needs.
 
+For further details, please [contact](/#contact).
+
 <!--
+
 ### STEP-1 : Hugo installation
 
 Check this link below for install hugo on your computer.
@@ -84,7 +86,7 @@ theme = "meghna-hugo"
 When your site is ready to deploy, run the following command:
 
     hugo
-
+    
     # You can also create a minified version by using this command:
     hugo--minify
 
