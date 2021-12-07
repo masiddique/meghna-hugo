@@ -22,7 +22,10 @@ description: Do you need mapping & geo-tagging services for your fields? Or you'
 > 9. Resource mapping (water intake, stress analysis, discharge/re-charge, etc.)
 
 These are just a few of the several services that GIS & Remote Sensing offered by Créneau in the domain of agricultural field monitoring. We provide `customized solutions`, tailored to your business needs. For further details, please [contact](/#contact).
-<!--
+
+ 
+
+ <!--
 
 ### STEP-1 : Hugo installation
 
