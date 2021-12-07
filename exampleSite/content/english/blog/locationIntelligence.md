@@ -3,7 +3,7 @@ title: Spatial Analytics for Urban Planning
 date: 2021-10-06T00:00:00+05:00
 image_webp: ''
 image: ''
-author: Creneau Staff
+author: Créneau Staff
 description: This is meta description
 
 ---
