@@ -7,7 +7,7 @@ author: Créneau Staff
 description: Geomarketing & Location Intelligence are the new game changers in business.
 
 ---
-##### Are you confused where should you open the new branch of your shop? What is your growth potential given competitors in the same locality? Créneau answers your questions on the basis of AI-driven spatial analytics.
+##### Are you confused where should you open your new outlet? What is your growth potential given competitors in the same locality? Créneau answers your questions on the basis of AI-driven spatial analytics.
 
 We have served clients in various aspects related to Location Intelligence such as:
 
