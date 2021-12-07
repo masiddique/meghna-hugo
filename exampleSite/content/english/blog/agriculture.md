@@ -1,13 +1,13 @@
 ---
-title: "Agricultural Monitoring"
-date: 2021-06-12T14:51:12+06:00
+title: Agricultural Monitoring
+date: 2021-06-12T14:51:12.000+06:00
 author: Adnan Siddique
-image_webp: images/blog/meghna.webp
-image: images/blog/meghna.jpg
-description : "Description of the image"
----
+image_webp: ''
+image: "/images/field.jpg"
+description: Remote Sensign for Agriculture
 
-## Install this template by following those simple steps:
+---
+## Remote Sensing for Agriculture
 
 ### STEP-1 : Hugo installation
 
@@ -18,20 +18,18 @@ Check this link below for install hugo on your computer.
 
 Hugo provides a `new` command to create a new website.
 
-```
-hugo new site <new_project>
-```
+    hugo new site <new_project>
 
 ### STEP-3 : Install the theme
+
 Run this command
-```
-hugo new site meghna-hugo
-```
-and then go to the themes folder inside of meghna-hugo folder. You can also use this command ```cd meghna-hugo/themes``` for going to this folder.
+
+    hugo new site meghna-hugo
+
+and then go to the themes folder inside of meghna-hugo folder. You can also use this command `cd meghna-hugo/themes` for going to this folder.
 Then run the command
-```
-git clone git@github.com:themefisher/meghna-hugo.git
-```
+
+    git clone git@github.com:themefisher/meghna-hugo.git
 
 Alternatively, you can [download the theme as .zip](https://github.com/themefisher/meghna-hugo/archive/master.zip) file and extract it in the `themes` directory
 
@@ -43,9 +41,7 @@ open the command prompt again and run `cd ../` command for go back to the root f
 
 Launching the website locally by using the following command:
 
-```
-hugo serve
-```
+    hugo serve
 
 Go to `http://localhost:1313`
 
@@ -63,20 +59,16 @@ theme = "meghna-hugo"
 
 ### STEP-6 : Create your first content pages
 
-```
-hugo new blog/post-name.md
-```
+    hugo new blog/post-name.md
 
 ### STEP-7 : Build the website
 
 When your site is ready to deploy, run the following command:
 
-```
-hugo
-
-# You can also create a minified version by using this command:
-hugo--minify
-
-```
+    hugo
+    
+    # You can also create a minified version by using this command:
+    hugo--minify
+    
 
 A `public` folder will be generated, containing all static content and assets for your website. It can now be deployed on any web server.
