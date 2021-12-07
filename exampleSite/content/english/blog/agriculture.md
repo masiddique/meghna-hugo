@@ -22,9 +22,6 @@ description: Do you need mapping & geo-tagging services for your fields? Or you'
 > 9. Resource mapping (water intake, stress analysis, discharge/re-charge, etc.)
 
 These are just a few of the several services that GIS & Remote Sensing offered by Créneau in the domain of agricultural field monitoring. We provide `customized solutions`, tailored to your business needs. For further details, please [contact](/#contact).
-
- 
-
  <!--
 
 ### STEP-1 : Hugo installation
@@ -84,7 +81,7 @@ theme = "meghna-hugo"
 When your site is ready to deploy, run the following command:
 
     hugo
-    
+
     # You can also create a minified version by using this command:
     hugo--minify
 
