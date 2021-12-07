@@ -3,7 +3,8 @@ title: GIS & Remote Sensing for Agriculture
 date: 2021-06-12T14:51:12.000+06:00
 author: Créneau Staff
 image_webp: ''
-image: "/images/field.jpg"
+#image: "/images/field.jpg"
+image: "/images/backgrounds/plants.png"
 description: Do you need mapping & geo-tagging services for your fields? Or you're
   interested in crop yield estimation? Créneau provides various services in the domain
   of agricultural monitoring.
