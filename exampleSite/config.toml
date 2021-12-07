@@ -89,7 +89,7 @@ author = "CPL"
 description = "Créneau"
 google_analytics_id = ""
 #logo = "images/creneau-logo.png"
-logo = "images/logo_new.png"
+logo = "images/logo_new_redone_3.png"
 post_share = true
 social = []
 [params.cookies]
