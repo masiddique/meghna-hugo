@@ -13,8 +13,8 @@ feature:
   - title: Digital Solutions
     icon: ti-bar-chart
     content: We leverage digital technologies such Remote Sensing, Spatial Analytics
-      and Instrumentation, coupled with advanced machine learning and AI, to create
-      business opportunities.
+      & Instrumentation, and FinTech, coupled with advanced machine learning and AI,
+      to create business opportunities.
   - title: GIS Devlopment & Support
     icon: ti-map-alt
     content: We provide Geographic Information System (GIS) services for near real-time
