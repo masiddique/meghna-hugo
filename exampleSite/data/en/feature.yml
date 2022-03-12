@@ -6,8 +6,9 @@ feature:
   title: We promote sustainable growth
   content: Our technologies and services help companies grow more sustainably, with
     accelerated productivity! We offer expertise in varied domains of artificial intelligence,
-    remote sensing & geospatial analytics, and related instrumentation, targetted
-    towards enabling a healthier planet.
+    machine learning-drive financial solutions (FinTech), remote sensing & geospatial
+    analytics, and related instrumentation, targetted towards enabling a healthier
+    planet.
   feature_item:
   - title: Digital Solutions
     icon: ti-bar-chart
