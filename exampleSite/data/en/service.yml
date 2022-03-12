@@ -18,6 +18,6 @@ service:
   - name: Embedded/IoT Solutions
     icon: ti-package
     content: ''
-  - name: Trainings/Consultancy
-    icon: ti-pulse
+  - name: FinTech Solutions
+    icon: ti-money
     content: ''
