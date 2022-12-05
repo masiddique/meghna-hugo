@@ -12,7 +12,8 @@ contact:
     info: 'Email: contact@creneau.tech'
   contact_form:
     enable: true
-    form_action: "#"
+    form_action: "https://getform.io/f/10a7d345-c88f-4fa9-bfcc-2b1cb028d439"
+    method: POST
     name: Your Name
     email: Your Email
     subject: Subject
