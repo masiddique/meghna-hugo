@@ -1,0 +1,3 @@
+- Real-time marine surveillance (subject to client-side support of related satellite/airborne/drone imaging)
+- Real-time monitoring of ports’ environment
+- Ozone depletion and impact analysis
