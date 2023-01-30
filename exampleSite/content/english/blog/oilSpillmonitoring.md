@@ -2,7 +2,7 @@
 title: "MarineSCAN"
 date: 2019-09-12T12:52:36+06:00
 #image_webp: images/blog/blog-post-3.webp
-image: images/blog/oilSpill_1.png
+image: images/blog/oilSpill_2.png
 author: Créneau Staff
 description : "Créneau provides integrated services & technology for remote monitoring & analysis of key assets, installations and routes."
 ---
