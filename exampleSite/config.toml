@@ -110,4 +110,4 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = false
-preloader = "images/logo_new.png"
+preloader = "images/favicon.png"
