@@ -14,7 +14,7 @@ portfolio:
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories:
-    - development
+    - Remote Sensing & GIS
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
   - name: Clock Product
@@ -22,7 +22,7 @@ portfolio:
     image_webp: images/portfolio/portfolio-3.webp
     categories:
     - Internet of Things (IoT)
-    - development
+    - Remote Sensing & GIS
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Bottol Label
@@ -30,7 +30,7 @@ portfolio:
     image_webp: images/portfolio/portfolio-4.webp
     categories:
     - photography
-    - development
+    - Remote Sensing & GIS
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Shopping Bag
@@ -51,7 +51,7 @@ portfolio:
     image: images/portfolio/portfolio-7.jpg
     image_webp: images/portfolio/portfolio-7.webp
     categories:
-    - development
+    - Remote Sensing & GIS
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Stationary Internet of Things (IoT)
@@ -59,7 +59,7 @@ portfolio:
     image_webp: images/portfolio/portfolio-8.webp
     categories:
     - Internet of Things (IoT)
-    - development
+    - Remote Sensing & GIS
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Tag Internet of Things (IoT)
