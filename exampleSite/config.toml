@@ -30,7 +30,7 @@ url = "#contact"
 weight = 7
 
 [[Languages.en.menu.main]]
-name = "trainigs"
+name = "trainings"
 url = "#portfolio"
 weight = 5
 

@@ -1,6 +1,6 @@
 ---
 portfolio:
-  enable: true
+  enable: false
   title: Our Tranings
   portfolio_item:
   - name: Tag Internet of Things (IOT)
