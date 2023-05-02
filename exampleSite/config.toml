@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "Créneau"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2022 Créneau Private Limited. All rights reserved."
+copyright = "Copyright &copy; 2023 Créneau Private Limited. All rights reserved."
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -28,6 +28,12 @@ weight = 6
 name = "contact"
 url = "#contact"
 weight = 7
+
+[[Languages.en.menu.main]]
+name = "trainigs"
+url = "#portfolio"
+weight = 5
+
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
