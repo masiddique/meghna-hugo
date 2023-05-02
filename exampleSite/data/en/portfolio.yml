@@ -3,11 +3,11 @@ portfolio:
   enable: true
   title: Our Tranings
   portfolio_item:
-  - name: Tag IoT
+  - name: Tag Internet of Things (IoT)
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
     categories:
-    - IoT
+    - Internet of Things (IoT)
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: https://themefisher.com
   - name: Sound system
@@ -21,7 +21,7 @@ portfolio:
     image: images/portfolio/portfolio-3.jpg
     image_webp: images/portfolio/portfolio-3.webp
     categories:
-    - IoT
+    - Internet of Things (IoT)
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
@@ -37,10 +37,10 @@ portfolio:
     image: images/portfolio/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp
     categories:
-    - IoT
+    - Internet of Things (IoT)
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Tag IoT
+  - name: Tag Internet of Things (IoT)
     image: images/portfolio/portfolio-6.jpg
     image_webp: images/portfolio/portfolio-6.webp
     categories:
@@ -54,19 +54,19 @@ portfolio:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Stationary IoT
+  - name: Stationary Internet of Things (IoT)
     image: images/portfolio/portfolio-8.jpg
     image_webp: images/portfolio/portfolio-8.webp
     categories:
-    - IoT
+    - Internet of Things (IoT)
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Tag IoT
+  - name: Tag Internet of Things (IoT)
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories:
-    - IoT
+    - Internet of Things (IoT)
     - photography
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
