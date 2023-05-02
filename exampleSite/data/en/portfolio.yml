@@ -58,7 +58,7 @@ portfolio:
     image: images/portfolio/portfolio-8.jpg
     image_webp: images/portfolio/portfolio-8.webp
     categories:
-    - Internet of Things (IoT)
+    - Internet of Things (iot)
     - Remote Sensing & GIS
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
