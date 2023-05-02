@@ -3,11 +3,11 @@ portfolio:
   enable: true
   title: Our Tranings
   portfolio_item:
-  - name: Tag Internet of Things (IoT)
+  - name: Tag Internet of Things (IOT)
     image: images/portfolio/portfolio-1.jpg
     image_webp: images/portfolio/portfolio-1.webp
     categories:
-    - Internet of Things (IoT)
+    - Internet of Things (iot)
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: https://themefisher.com
   - name: Sound system
