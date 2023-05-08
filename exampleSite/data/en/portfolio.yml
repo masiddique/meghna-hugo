@@ -4,31 +4,30 @@ portfolio:
   title: Our Tranings
   portfolio_item:
   - name: Remote Sensing
-    image: images/portfolio/Remote Sensing-final.png
-    image_webp: images/portfolio/portfolio-1.webp
+    image: images/portfolio/RemoteSensing-final.png
+    #image_webp: images/portfolio/portfolio-1.webp
     categories:
     - Remote Sensing
     content: State-of-the art tools, techniques, & technologies for RS Applications
-    link: https://themefisher.com
+    link: ''
   - name: GIS
     image: images/portfolio/GIS-final.jpg
-    image_webp: images/portfolio/portfolio-2.webp
+    #image_webp: images/portfolio/portfolio-2.webp
     categories:
     - GIS
     content: Location intelligence, geo-tagging, and geo-marketing
     link: ''
   - name: Cybersecurity
-    image: images/portfolio/Security-final.webp
-    image_webp: images/portfolio/portfolio-3.webp
+    #image: images/portfolio/Security-final.webp
+    image_webp: images/portfolio/Security-final.webp
     categories:
     - Cybersecurity
     content: hardware & software security, pentesting, security auditing, certification
     link: "#"
   - name: Embedded Systems & IoTs
     image: images/portfolio/embedded-final.png
-    image_webp: images/portfolio/portfolio-4.webp
+    #image_webp: images/portfolio/portfolio-4.webp
     categories:
-    - photography
     - Embedded Systems & IoTs
     content: Design, Development, and Deployment
     link: ''
