@@ -3,70 +3,32 @@ portfolio:
   enable: true
   title: Our Tranings
   portfolio_item:
-  - name: Tag Internet of Things (IOT)
-    image: images/portfolio/portfolio-1.jpg
+  - name: Remote Sensing
+    image: images/portfolio/Remote Sensing-final.png
     image_webp: images/portfolio/portfolio-1.webp
     categories:
-    - Internet of Things (iot)
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - Remote Sensing
+    content: State-of-the art tools, techniques, & technologies for RS Applications
     link: https://themefisher.com
-  - name: Sound system
-    image: images/portfolio/portfolio-2.jpg
+  - name: GIS
+    image: images/portfolio/GIS-final.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories:
-    - Remote Sensing & GIS
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - GIS
+    content: Location intelligence, geo-tagging, and geo-marketing
     link: ''
-  - name: Clock Product
-    image: images/portfolio/portfolio-3.jpg
+  - name: Cybersecurity
+    image: images/portfolio/Security-final.webp
     image_webp: images/portfolio/portfolio-3.webp
     categories:
-    - Internet of Things (iot)
-    - Remote Sensing & GIS
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - Cybersecurity
+    content: hardware & software security, pentesting, security auditing, certification
     link: "#"
-  - name: Bottol Label
-    image: images/portfolio/portfolio-4.jpg
+  - name: Embedded Systems & IoTs
+    image: images/portfolio/embedded-final.png
     image_webp: images/portfolio/portfolio-4.webp
     categories:
     - photography
-    - Remote Sensing & GIS
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Shopping Bag
-    image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
-    categories:
-    - Internet of Things (iot)
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Tag Internet of Things (IoT)
-    image: images/portfolio/portfolio-6.jpg
-    image_webp: images/portfolio/portfolio-6.webp
-    categories:
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Business Card
-    image: images/portfolio/portfolio-7.jpg
-    image_webp: images/portfolio/portfolio-7.webp
-    categories:
-    - Remote Sensing & GIS
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Stationary Internet of Things (IoT)
-    image: images/portfolio/portfolio-8.jpg
-    image_webp: images/portfolio/portfolio-8.webp
-    categories:
-    - Internet of Things (iot)
-    - Remote Sensing & GIS
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Tag Internet of Things (iot)
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
-    categories:
-    - Internet of Things (iot)
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
+    - Embedded Systems & IoTs
+    content: Design, Development, and Deployment
+    link: ''
