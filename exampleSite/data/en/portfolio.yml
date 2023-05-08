@@ -8,7 +8,7 @@ portfolio:
     #image_webp: images/portfolio/portfolio-1.webp
     categories:
     - Remote Sensing
-    content: State-of-the art tools, techniques, & technologies for RS Applications
+    content: State-of-the art tools, techniques, & technologies for RS applications
     link: ''
   - name: GIS
     image: images/portfolio/GIS-final.jpg
@@ -22,9 +22,9 @@ portfolio:
     image_webp: images/portfolio/Security-final.webp
     categories:
     - Cybersecurity
-    content: hardware & software security, pentesting, security auditing, certification
+    content: Hardware & software security, pentesting, security auditing, certification
     link: "#"
-  - name: Embedded Systems & IoTs
+  - name: Embedded Systems & {IoTs}
     image: images/portfolio/embedded-final.png
     #image_webp: images/portfolio/portfolio-4.webp
     categories:
