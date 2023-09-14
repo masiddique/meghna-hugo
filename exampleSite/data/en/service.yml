@@ -3,15 +3,15 @@ service:
   enable: true
   title: Our Services
   service_item:
-  - name: Remote Sensing
-    icon: ti-world
-    content: ''
-  - name: GIS Solutions
-    icon: ti-layout
-    content: ''
-  - name: Spatial Analytics
-    icon: ti-blackboard
-    content: ''
+  # - name: Remote Sensing
+  #   icon: ti-world
+  #   content: ''
+  # - name: GIS Solutions
+  #   icon: ti-layout
+  #   content: ''
+  # - name: Spatial Analytics
+  #   icon: ti-blackboard
+  #   content: ''
   - name: AI-based Data Analytics
     icon: ti-palette
     content: ''
