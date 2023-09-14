@@ -1,6 +1,6 @@
 ---
 cta:
-  enable: true
+  enable: false
   bg_image: images/backgrounds/map_4.png
   #bg_image_webp: images/backgrounds/bg-white-wall.webp
   title: Grow your business with Créneau!
