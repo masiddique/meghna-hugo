@@ -3,13 +3,13 @@ about:
   enable: true
   title: Business Focuses
   about_item:
-  - icon: ti-layers-alt
-    title: Remote Sensing & Spatial Analytics
-    content: We process multimodal (optical & radar) imagery over your area of interest
-      (AOI) & apply AI-based analytics to extract useful information, and produce
-      results that are relevant to your business needs. Créneau provides on-demand
-      sectoral services for asset monitoring, change detection, urban planning, de-carbonization
-      & environment monitoring.
+  # - icon: ti-layers-alt
+  #   title: Remote Sensing & Spatial Analytics
+  #   content: We process multimodal (optical & radar) imagery over your area of interest
+  #     (AOI) & apply AI-based analytics to extract useful information, and produce
+  #     results that are relevant to your business needs. Créneau provides on-demand
+  #     sectoral services for asset monitoring, change detection, urban planning, de-carbonization
+  #     & environment monitoring.
   - icon: ti-server
     title: Instrumentation & Data Analytics
     content: Créneau provides instrumentation & analytical support for predictive
@@ -19,8 +19,13 @@ about:
       requirements.
   - icon: ti-check-box
     title: Consultancy Services & Trainings
+    # content: Leveraging our extensive experience and expertise, Créneau provides consultancy
+    #   services to clients in the areas of technology adaptation, digital utilities,
+    #   data analytics, instrumentation, GIS, remote sensing, information security and
+    #   related business focuses. We provide corporate trainings and professional skill
+    #   development services as well.
     content: Leveraging our extensive experience and expertise, Créneau provides consultancy
       services to clients in the areas of technology adaptation, digital utilities,
-      data analytics, instrumentation, GIS, remote sensing, information security and
+      data analytics, instrumentation, information security and
       related business focuses. We provide corporate trainings and professional skill
       development services as well.
