@@ -21,10 +21,6 @@ name = "services"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
-name = "portfolio"
-url = "#blog"
-weight = 6
-[[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
 weight = 7
