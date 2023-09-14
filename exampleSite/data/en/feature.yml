@@ -1,28 +1,27 @@
 ---
 feature:
   enable: true
-  image: "/images/satellite-2.jpg"
+  image: "/images/backgrounds/bg-white-wall.jpg"
   image_webp: ''
   title: We promote sustainable growth
   content: Our technologies and services help companies grow more sustainably, with
     accelerated productivity! We offer expertise in varied domains of artificial intelligence,
-    machine learning-driven financial solutions (FinTech), remote sensing & geospatial
-    analytics, and related instrumentation, targetted towards enabling a healthier
+    machine learning-driven financial solutions (FinTech), and related instrumentation, targetted towards enabling a healthier
     planet.
   feature_item:
   - title: Digital Solutions
     icon: ti-bar-chart
-    content: We leverage digital technologies such Remote Sensing, Spatial Analytics
-      & Instrumentation, and FinTech, coupled with advanced machine learning and AI,
+    content: We leverage digital technologies such as Embedded Systems,
+      Instrumentation, and FinTech, coupled with advanced machine learning and AI,
       to create business opportunities.
-  - title: GIS Devlopment & Support
-    icon: ti-map-alt
-    content: We provide Geographic Information System (GIS) services for near real-time
-      monitoring of ground assets.
-  - title: Environment Monitoring
-    icon: ti-panel
-    content: Our business focus is aligned with UN SDGs. We are committed to providing
-      technological solutions to monitor and protect environment on land & sea.
+  # - title: GIS Devlopment & Support
+  #   icon: ti-map-alt
+  #   content: We provide Geographic Information System (GIS) services for near real-time
+  #     monitoring of ground assets.
+  # - title: Environment Monitoring
+  #   icon: ti-panel
+  #   content: Our business focus is aligned with UN SDGs. We are committed to providing
+  #     technological solutions to monitor and protect environment on land & sea.
   - title: Trainings & Consultancy
     icon: ti-book
     content: Capacity-building and HR development is one of the core values at Creneau.
